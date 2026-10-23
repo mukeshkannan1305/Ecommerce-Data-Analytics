@@ -1,0 +1,15 @@
+Location_ID,City,State,Region
+LOC001,Chennai,Tamil Nadu,South
+LOC002,Coimbatore,Tamil Nadu,South
+LOC003,Madurai,Tamil Nadu,South
+LOC004,Bengaluru,Karnataka,South
+LOC005,Hyderabad,Telangana,South
+LOC006,Mumbai,Maharashtra,West
+LOC007,Pune,Maharashtra,West
+LOC008,Ahmedabad,Gujarat,West
+LOC009,Delhi,Delhi,North
+LOC010,Jaipur,Rajasthan,North
+LOC011,Lucknow,Uttar Pradesh,North
+LOC012,Kolkata,West Bengal,East
+LOC013,Bhubaneswar,Odisha,East
+LOC014,Patna,Bihar,East
